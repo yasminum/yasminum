@@ -4,23 +4,23 @@
 
 <p>- <i>Senior AI Engineer with 18+ years leading digital transformation. Specialist in predictive modeling, NLP, computer vision and MLOps. Achieved 40% fraud reduction, 85% process automation, and $5M+ cost savings.</i></p>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://i.postimg.cc/y3kFzYWz/Whats-App-Image-2025-08-11-at-1-39-39-PM.jpg" width="30%" align="right" /> 
+
+<hr>
 
 ## ⚡🙋‍♀️ About Me
-
-</br>
 
 - 🔧 Currently leading AI initiatives at ClaimPay USA
 - 💡 Interested in... the intersection of generative AI and financial analysis
 - 📖 Learning... advanced RAG models and Bayesian Econometrics
 - ❄️ Looking to collaborate on... ethical ML open-source projects
-- 📫 How to reach me... [your email here]
+- 📫 How to reach me... ingyasmin@gmail.com
 
 <hr>
 
 </br>
 
-<table width="100%">
+<table width="50%">
  <tr>
     <td width="60%">
      
