@@ -8,7 +8,7 @@
 
 <hr>
 
-## ⚡🙋‍♀️ About Me
+ ⚡🙋‍♀️ About Me
 
 - 🔧 Currently leading AI initiatives at ClaimPay USA
 - 💡 Interested in... the intersection of generative AI and financial analysis
