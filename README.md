@@ -17,17 +17,16 @@
 - 📫 How to reach me... ingyasmin@gmail.com
 
 <hr>
-
 </br>
 
-<table width="50%">
- <tr>
-    <td width="60%">
+<table width="100%">
+<tr>
+  <!-- Columna 1: Technical Skills -->
+  <td width="60%" valign="top">
      
 ## 🛠️ Technical Skills
 
 #### Artificial Intelligence
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -36,7 +35,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-00A67D?style=for-the-badge&logo=LangChain&logoColor=white)
 
 #### Cloud & MLOps
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -45,7 +43,6 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white)
 
 #### Languages & Data
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,7 +51,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### Data Processing
-
 ![Hadoop](https://img.shields.io/badge/Hadoop-%2366CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
@@ -62,14 +58,35 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 #### Specializations
-
 ![OCR](https://img.shields.io/badge/OCR-4285F4?style=for-the-badge&logo=google-lens&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=natural-language-processing&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/CV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Predictive Modeling](https://img.shields.io/badge/Predictive_Models-FF6D00?style=for-the-badge&logo=lightning&logoColor=white)
-     
-</td>
-    <td>
+
+---
+
+
+## 🧩 RAG & Automation Expertise
+
+- Applications with **LangChain**, vector databases (**ChromaDB**, **Qdrant**, **pgvector**), and code-aware embeddings (**BGE-code** or similar).
+- Strong **Python** skills (**FastAPI** / **Flask**) and ability to read Java for chunking and context optimization.
+- Experience with **Jenkins**, secrets management, and observability tooling (**Grafana**, **Prometheus**, **LangSmith**, **RAGAS**).
+- Skilled in working with **OpenAI** / **Anthropic APIs** and deploying self-hosted endpoints (keys, rate limits, safety controls).
+- Asset experience:
+  - **Claude-specific** practices, structured prompting, cost optimization.
+  - Retrieval evaluation (**RAGAS**, **LangChain Evaluators**) and A/B testing for prompts or routing.
+  - Security & compliance for developer-facing AI tools (PII handling, audit logging).
+
+**Collaboration & Role Scope**
+- **SDET Team**: Ensures test quality and final review of autoscripted code.
+- **Automation Agent Engineer**: Tunes prompts and retrieval logic.
+- **You own the RAG platform**: indexing, retrieval quality, LLM orchestration, and CI integration.
+
+
+
+ </td>
+     <!-- Columna 2: GitHub Stats -->
+  <td width="40%" valign="top">
   
 ## 📊 GitHub Stats
 
@@ -105,13 +122,12 @@
 <hr>
 
 ## 📚 Education & Certifications
-
 - **MSc in Artificial Intelligence** - UNI (In Progress)
 - **Big Data & Data Science** - MIT (2021-2022)
 - **Systems Engineering** - UNFV (2000-2008)
 
 ## 🏆 Key Achievements
-
 - **$5M+** savings generated with AI solutions
 - **85%** processes automated in financial sector
 - **95%+** accuracy in computer vision systems
+
