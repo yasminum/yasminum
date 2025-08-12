@@ -91,11 +91,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yasminum&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasminum"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&bg_color=transparent&hide=html,css&langs_count=6" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminum&layout=compact&bg_color=transparent&hide=html,css&langs_count=6" />
 </p>
      
   </td>
